@@ -1,0 +1,31 @@
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 30px ;
+
+    
+}
+.ctn{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.btn{
+    width: 30%;
+    height: 50%;
+    background-color: green;
+    color: aliceblue;
+
+}
+input{
+    width: 40%;
+    height: 60%;
+}
+body{
+    background-color: black;
+}
+   
